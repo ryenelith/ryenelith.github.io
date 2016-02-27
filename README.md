@@ -1,2 +1,1 @@
-# ryenelith.github.io
-Ryen's Homepage on GitHub.
+Homepage on Github.
