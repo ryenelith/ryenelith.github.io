@@ -1,0 +1,31 @@
+<?php include("mainTop.php"); ?>
+
+		<h1 align="center"> Innovation Project ETH - Team Colligo </h1>
+		
+		<div id="intro" >
+		
+			<div id="p-image-frame">
+				<img class="p-project-image" src="resources/projects/innovationProject.png">
+			</div>
+			
+			<div id="abstract-frame">
+				<h3>summary</h3>
+				The goal of the innovation project was to design a system that is moved using a cable (like a cable car) and can pick up different objects. The objects are lying spread on the ground and are to be transported to the top station. The develloped system is a team effort of 6 students. I was involved in:
+				<ul>
+				<li> creating ideas, being creative </li>
+				<li> building prototypes </li>
+				<li> CAD drawing </li>
+				<li> assembly </li>
+				<li> webdesign </li>
+				 </ul>
+				<h3>links </h3>
+				Link to the project homepage: <a href="http://n.ethz.ch/student/elithr/colligo/index.php">Team Colligo</a>
+			</div>
+				
+		</div>
+		<!--
+		<div id="more-details">
+			<h3 align="center">some impressions</h3>
+			
+		</div>
+-->
